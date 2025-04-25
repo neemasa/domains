@@ -87,5 +87,3 @@ aaplimg.com
 icloud-content.com
 apple-cloudkit.com
 sepandrayaneh.ir
-github.com
-github.com
